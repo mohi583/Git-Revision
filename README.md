@@ -1,4 +1,4 @@
-# [English Version](#en) | [النسخة العربية](#ar)
+# [الذهاب للنسخة العربي 👇🏼](#ar)
 
 <h2 dir="ltr" align="center" id="en">
     بسم الله الرحمن الرحيم
@@ -282,6 +282,8 @@ This revision is designed to provide a concise overview of Git, including basic 
 A comprehensive video course on Git and GitHub in Arabic.
 
 <br>
+
+# [Back To English Version 👆🏼](#en)
 
 <h2 dir="rtl" align="center" id="ar">
     بسم الله الرحمن الرحيم
